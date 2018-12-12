@@ -36,15 +36,6 @@ menu ul li {
 
 header{
   display: flex;
-  flex-direction: row;
+  justify-content: space-between;
 
 }
-header h1{
-  flex:6;
-}
-
-header menu{
-  flex: 1;
-}
-
-
