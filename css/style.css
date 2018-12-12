@@ -34,4 +34,17 @@ menu ul li {
   margin: 5px;
 }
 
+header{
+  display: flex;
+  flex-direction: row;
+
+}
+header h1{
+  flex:6;
+}
+
+header menu{
+  flex: 1;
+}
+
 
