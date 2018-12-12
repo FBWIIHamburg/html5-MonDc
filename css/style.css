@@ -39,3 +39,19 @@ header{
   justify-content: space-between;
 
 }
+
+section{
+  float: left;
+  
+  
+
+
+}
+
+article{
+  width: 30%;
+ 
+  float: left;
+  
+ 
+}
