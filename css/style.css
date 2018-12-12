@@ -3,6 +3,7 @@ body {
   font-size: 0.9em;
 }
 
+
 header, footer {
   padding: 10px;
   color: white;
@@ -28,4 +29,9 @@ menu ul {
 menu ul li {
   display: inline;
   margin: 5px;
+}
+
+.row{
+  padding-left: 10%;
+  padding-right: 10%;
 }
